@@ -28,12 +28,14 @@ Currently enhancing my technical skills at **Wild Code School**, I’m eager to 
 
 ## 📂 Key Projects
 
-1. **[RFM Segmentation Dashboard on Power BI](https://github.com/MaxBusc/workspace/tree/main/projects/project1_Olist)**  
+1. **[RFM Segmentation Dashboard on Power BI](https://github.com/MaxBusc/workspace/tree/main/projects/project1_Olist)**
+    
    - 🛠️ Customer segmentation to optimize engagement and marketing strategies.  
    - 🚀 **Technologies:** Power BI, SQL.  
    - 📊 **Key Result:** Found solutions to reduce customer churn by 15%.
 
-2. **[Climate Vulnerability Indicators and Dashboard for ADEME (Facili-TACCT](https://github.com/MaxBusc/workspace/tree/main/projects/project2_FaciliTACCT)**  
+3. **[Climate Vulnerability Indicators and Dashboard for ADEME (Facili-TACCT](https://github.com/MaxBusc/workspace/tree/main/projects/project2_FaciliTACCT)**
+   
    - 🌍 **Goal:** Supporting local governments in better understanding and addressing climate vulnerability diagnostics.  
    - 🛠️ **Role:** Volunteer Data Analyst.  
    - 🚀 **Missions:**
@@ -44,7 +46,8 @@ Currently enhancing my technical skills at **Wild Code School**, I’m eager to 
 ---
 
 
-3. **[Data Analysis on Jupyter Notebook](https://github.com/MaxBusc/CodeChronicles)**  
+3. **[Data Analysis on Jupyter Notebook](https://github.com/MaxBusc/CodeChronicles)**
+   
    - 🔍 My journey trough learning how to code, with multiple Notebooks making me practice Sales data exploration, trend analysis, and anomaly detection.  
    - 🚀 **Technologies:** Python (Pandas, Matplotlib, Seaborn).  
    - 📊 **Key Result:** Identified growth opportunities in 3 key segments.
