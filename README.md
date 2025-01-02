@@ -1,45 +1,66 @@
-# 👋 Bonjour, je suis Maxime !
+# 👋 Hi, I’m Maxime!
 
-Data Analyst & Chef de Projet Data avec un background en marketing et data management.
-Je suis passionné par l’analyse de données et la transformation de projets data-driven en solutions concrètes pour aider tout un chacun au quotidien.
-Actuellement, je suis en formation de Data Analyse à la Wild Code School pour renforcer mes compétences techniques.
-
----
-
-## 💼 Compétences
-
-- Langages de Programmation : Python (Pandas, NumPy), SQL
-- Outils de Data Visualisation : Power BI, Tableau, Excel
-- Gestion de Projet : Méthodes Agiles (Scrum), Asana, Jira
-- Data Marketing : Segmentation client (RFM), KPIs, stratégies de fidélisation clients
+**Data Analyst** passionate about **solving complex problems** and **unlocking value from data**. With a background in marketing and data management, I bring my expertise to deliver **impactful data-driven projects**.  
+Currently enhancing my technical skills at **Wild Code School**, I’m eager to take on new challenges. 🚀  
 
 ---
 
-## 📂 Projets principaux
+## 💼 Skills
 
-1. **[Dashboard de Segmentation RFM sur Power BI](Work In Progress)**  
-   Segmentation des clients en différentes catégories pour améliorer la stratégie marketing et optimiser l’engagement client. Utilisation de Power BI pour créer des visualisations claires et interprétables.
 
-2. **[Analyse de données sur Jupyter Notebook](Work In Progress)**  
-   Exploration de données de ventes avec Python, nettoyage des données, analyse de tendances, et détection d’anomalies. Visualisations créées avec Matplotlib et Seaborn pour appuyer les décisions stratégiques.
+**Programming Languages:**  
 
-3. **[Projet de Customer Success Management](Work In Progress)**  
-   Conception et suivi d’un parcours client, avec un taux de rétention de 99 %. Développement de supports de communication et suivi des KPIs d’engagement. 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
----
 
-## 🌱 En ce moment, j'apprends...
+**Data Visualization Tools:**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 
-- **Machine Learning** : Premiers pas en apprentissage automatique, avec des applications pour l’analyse prédictive.
-- **Langue Chinoise** : Améliorer mes compétences linguistiques pour un enrichissement culturel et professionnel.
+**Project Management:**  
+![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrum&logoColor=white) 
+![Asana](https://img.shields.io/badge/-Asana-F06A6A?style=flat&logo=asana&logoColor=white)
 
----
-
-## 📫 Me contacter
-
-- LinkedIn : [[linkedin.com/in/maxime123](lien_vers_ton_profil_linkedin)](https://www.linkedin.com/in/maximebuscaylet/)
-- Email : buscaylet.maxime@gmail.com
 
 ---
 
-Merci de visiter mon profil ! 🚀 Toujours partant pour collaborer sur des projets intéressants ou échanger sur des sujets liés aux données et au marketing.
+
+## 📂 Key Projects
+
+1. **[RFM Segmentation Dashboard on Power BI](https://github.com/MaxBusc/workspace/tree/main/projects/project1_Olist)**  
+   - 🛠️ Customer segmentation to optimize engagement and marketing strategies.  
+   - 🚀 **Technologies:** Power BI, SQL.  
+   - 📊 **Key Result:** Found solutions to reduce customer churn by 15%.
+
+2. **[Climate Vulnerability Indicators and Dashboard for ADEME (Facili-TACCT](https://github.com/MaxBusc/workspace/tree/main/projects/project2_FaciliTACCT)**  
+   - 🌍 **Goal:** Supporting local governments in better understanding and addressing climate vulnerability diagnostics.  
+   - 🛠️ **Role:** Volunteer Data Analyst.  
+   - 🚀 **Missions:**
+   - Collecting data from government sources (e.g., INSEE), performing data cleaning, exploration, and analysis.  
+   - Transforming the data into pre-defined ecological indicators to aid municipalities in decision-making.  
+   - Designing dynamic dashboards to monitor data trends and ensure the sustainability of the data exploitation, even with updated data inputs.  
+   - 📊 **Technologies:** Python (Pandas), Power BI, SQL.
+---
+
+
+3. **[Data Analysis on Jupyter Notebook](https://github.com/MaxBusc/CodeChronicles)**  
+   - 🔍 My journey trough learning how to code, with multiple Notebooks making me practice Sales data exploration, trend analysis, and anomaly detection.  
+   - 🚀 **Technologies:** Python (Pandas, Matplotlib, Seaborn).  
+   - 📊 **Key Result:** Identified growth opportunities in 3 key segments.
+  
+     
+
+## 🌱 Currently Learning
+
+- **Machine Learning** 🤖: Exploring predictive analysis techniques through machine learning.  
+- **Chinese Language** 🀄: Expanding my linguistic and cultural knowledge.  
+
+---
+
+## 📫 Get in Touch
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/maximebuscaylet/)  
+- 📧 [buscaylet.maxime@gmail.com](mailto:buscaylet.maxime@gmail.com)
+
+👉 **Let’s connect!** I’d love to discuss your projects, challenges, or anything related to data and analytics. 🚀  
