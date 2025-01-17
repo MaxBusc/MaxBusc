@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Maxime!
 
 **Data Analyst** passionate about **solving complex problems** and **unlocking value from data**. With a background in marketing and data management, I bring my expertise to deliver **impactful data-driven projects**.  
-Currently enhancing my technical skills at **Wild Code School**, I’m eager to take on new challenges. 🚀  
+Currently enhancing my technical skills at **Wild Code School**, I’m eager to take on new challenges. ⛵ ⛵ ⛵  
 
 ---
 
@@ -31,26 +31,25 @@ Currently enhancing my technical skills at **Wild Code School**, I’m eager to 
 1. **[RFM Segmentation Dashboard on Power BI](https://github.com/MaxBusc/workspace/tree/main/projects/project1_Olist)**
     
    - 🛠️ Customer segmentation to optimize engagement and marketing strategies.  
-   - 🚀 **Technologies:** Power BI, SQL.  
+   - 💾 **Technologies:** Power BI, SQL.  
    - 📊 **Key Result:** Found solutions to reduce customer churn by 15%.
 
-3. **[Climate Vulnerability Indicators and Dashboard for ADEME (Facili-TACCT](https://github.com/MaxBusc/workspace/tree/main/projects/project2_FaciliTACCT)**
+2. **[Climate Vulnerability Indicators and Dashboard for ADEME (Facili-TACCT](https://github.com/MaxBusc/workspace/tree/main/projects/project2_FaciliTACCT)**
    
    - 🌍 **Goal:** Supporting local governments in better understanding and addressing climate vulnerability diagnostics.  
    - 🛠️ **Role:** Volunteer Data Analyst.  
-   - 🚀 **Missions:**
+   - 📌 **Missions:**
    - Collecting data from government sources (e.g., INSEE), performing data cleaning, exploration, and analysis.  
    - Transforming the data into pre-defined ecological indicators to aid municipalities in decision-making.  
    - Designing dynamic dashboards to monitor data trends and ensure the sustainability of the data exploitation, even with updated data inputs.  
-   - 📊 **Technologies:** Python (Pandas), Power BI, SQL.
----
+   - 💾 **Technologies:** Python (Pandas), Power BI, SQL.
 
 
 3. **[Data Analysis on Jupyter Notebook](https://github.com/MaxBusc/CodeChronicles)**
    
    - 🔍 My journey trough learning how to code, with multiple Notebooks making me practice Sales data exploration, trend analysis, and anomaly detection.  
-   - 🚀 **Technologies:** Python (Pandas, Matplotlib, Seaborn).  
-   - 📊 **Key Result:** Identified growth opportunities in 3 key segments.
+   - 💾 **Technologies:** Python (Pandas, Matplotlib, Seaborn).  
+   - 📜 **Key Result:** Identified growth opportunities in 3 key segments.
   
      
 
